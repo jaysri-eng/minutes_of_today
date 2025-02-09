@@ -37,6 +37,10 @@ dependencies:
   cupertino_icons: ^1.0.6
   another_flutter_splash_screen:
   google_fonts:
+  sqflite:
+  path_provider:
+  uuid:
+  path:
 
 dev_dependencies:
   flutter_test:
